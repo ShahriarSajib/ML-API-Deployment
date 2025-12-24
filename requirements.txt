@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 pydantic
-pickle5
 scikit-learn
 pandas
-pickle-mixin
 numpy
+joblib
+
+
 
